@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "713678190426",
+    "project_id": "chatting-application-1f60c",
+    "storage_bucket": "chatting-application-1f60c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:713678190426:android:912f81fe9784de06492563",
+        "android_client_info": {
+          "package_name": "com.bardaval.chattingapplication"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAVG4lwCpKqbudq-_3fq27o-tQEIrZyb2o"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
